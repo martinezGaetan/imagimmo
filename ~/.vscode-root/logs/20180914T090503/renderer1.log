@@ -11,3 +11,5 @@
 [2018-09-14 09:14:57.167] [renderer1] [info] No grammar found for scope source.stylus
 [2018-09-14 09:14:57.170] [renderer1] [info] No grammar found for scope source.applescript
 [2018-09-14 09:14:57.170] [renderer1] [info] No grammar found for scope text.html.textile
+[2018-09-14 09:24:59.240] [renderer1] [info] no standard startup: not just one text editor
+[2018-09-14 09:25:03.829] [renderer1] [info] no standard startup: not a new window

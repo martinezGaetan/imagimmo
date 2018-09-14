@@ -93,3 +93,126 @@ fatal: no upstream configured for branch 'master'
 > git remote --verbose
 > git show :imagimmo/README.md
 > git ls-files --stage -- imagimmo/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/README.md
+> git ls-files --stage -- imagimmo/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/README.md
+> git ls-files --stage -- imagimmo/
+> git show :imagimmo/README.md
+> git ls-files --stage -- imagimmo/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/README.md
+> git ls-files --stage -- imagimmo/
+> git show :imagimmo/management/__init__.py
+> git ls-files --stage -- imagimmo/management/
+> git show :imagimmo/imagimmo/settings.py
+> git ls-files --stage -- imagimmo/imagimmo/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/imagimmo/urls.py
+> git ls-files --stage -- imagimmo/imagimmo/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/management/tests.py
+> git ls-files --stage -- imagimmo/management/
+> git show :imagimmo/management/urls.py
+> git ls-files --stage -- imagimmo/management/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/imagimmo/urls.py
+> git ls-files --stage -- imagimmo/imagimmo/
+> git show :imagimmo/management/urls.py
+> git ls-files --stage -- imagimmo/management/
+> git show :imagimmo/imagimmo/settings.py
+> git ls-files --stage -- imagimmo/imagimmo/
+> git show :imagimmo/management/urls.py
+> git ls-files --stage -- imagimmo/management/
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/management/views.py
+> git ls-files --stage -- imagimmo/management/
+> git show :imagimmo/README.md
+> git ls-files --stage -- imagimmo/
+> git show :imagimmo/management/views.py
+> git ls-files --stage -- imagimmo/management/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :imagimmo/management/urls.py
+> git ls-files --stage -- imagimmo/management/

@@ -1,0 +1,52 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module manage
+14,0,error,E0001:invalid syntax (<string>, line 14)
+##########Linting Output - pylint##########
+************* Module manage
+14,0,error,E0001:invalid syntax (<string>, line 14)
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+************* Module imagimmo.urls
+16,0,error,E0401:Unable to import 'django.contrib'
+17,0,error,E0401:Unable to import 'django.urls'
+
+-------------------------------------
+Your code has been rated at -23.33/10
+
+##########Linting Output - pylint##########
+************* Module management.tests
+1,0,error,E0401:Unable to import 'django.test'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module imagimmo.urls
+16,0,error,E0401:Unable to import 'django.contrib'
+17,0,error,E0401:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module management.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+5,15,error,E1101:Module 'management.views' has no 'HomePageView' member
+
+-------------------------------------
+Your code has been rated at -23.33/10
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
